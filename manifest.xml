@@ -1,0 +1,15 @@
+<package>
+  <description brief="mouth_click">
+
+     mouth_click
+
+  </description>
+  <author>Dan Lazewatsky</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/mouth_click</url>
+  <depend package="image_geometry"/>
+  <depend package="cv_bridge"/>
+</package>
+
+
